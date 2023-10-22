@@ -103,7 +103,7 @@ begin
     end
 end
 
-always
+always @(*)
 begin
 	case(LUT_INDEX)
 	//	Config Data
