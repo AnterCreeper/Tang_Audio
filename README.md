@@ -16,8 +16,8 @@ Open Source Tang FPGA 9K Audio HAT
 
 #### 历史：  
 
-rev 1.0: 初始版本，包含OLED，PLL，DMIC，DAC  
-rev 2.0: 修复连接器插入识别问题，更换音频连接器，移除OLED，添加USB功能，按钮数量减为两个并增加一个滑动开关  
+rev A: 初始版本，包含OLED，PLL，DMIC，DAC  
+rev B: 修复连接器插入识别问题，更换音频连接器，移除OLED，添加USB功能，按钮数量减为两个并增加一个滑动开关  
 
 #### 未来：  
-rev 2.0a: 修复USB插座EMI问题
+rev B.1: 修复USB插座EMI问题
